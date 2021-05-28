@@ -10,6 +10,9 @@
   * [技能树·信息泄露](ctf/ctfhub/ji-neng-shu-xin-xi-xie-lu.md)
   * [技能树·密码口令](ctf/ctfhub/ji-neng-shu-mi-ma-kou-ling.md)
   * [CTFHub·总结文档](ctf/ctfhub/ctfhub-zong-jie-wen-dang.md)
+* [XCTF](ctf/xctf/README.md)
+  * [Web·进阶区](ctf/xctf/web-jin-jie-qu.md)
+  * [Misc·进阶区](ctf/xctf/misc-jin-jie-qu.md)
 
 ## SEC
 
