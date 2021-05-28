@@ -7,6 +7,7 @@ description: 离子安全实验室&信息安全工匠工坊
 * CTF
   * CTFHub
 * SEC
+  * Vulnhub靶机闯关记录
   * Pikachu靶场通关之旅
   * 文件上传·学习之旅
   * 工具使用·教程
