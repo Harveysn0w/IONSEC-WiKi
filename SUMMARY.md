@@ -43,5 +43,7 @@
 
 ## 漏洞文库
 
-* [CVE漏洞复现·汇总](lou-dong-wen-ku/untitled.md)
+* [CVE漏洞复现·汇总](lou-dong-wen-ku/untitled/README.md)
+  * [Python PIL 远程命令执行漏洞](lou-dong-wen-ku/untitled/python-pil-yuan-cheng-ming-ling-zhi-hang-lou-dong.md)
+  * [Untitled](lou-dong-wen-ku/untitled/untitled.md)
 
