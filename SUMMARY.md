@@ -45,5 +45,9 @@
 
 * [CVE漏洞复现·汇总](lou-dong-wen-ku/untitled/README.md)
   * [Python PIL 远程命令执行漏洞](lou-dong-wen-ku/untitled/python-pil-yuan-cheng-ming-ling-zhi-hang-lou-dong.md)
-  * [Untitled](lou-dong-wen-ku/untitled/untitled.md)
+  * [Windows Link windows快捷方式漏洞](lou-dong-wen-ku/untitled/untitled.md)
+  * [Microsoft Office远程代码执行漏洞](lou-dong-wen-ku/untitled/microsoft-office-yuan-cheng-dai-ma-zhi-hang-lou-dong.md)
+  * [Microsoft Office命令执行漏洞](lou-dong-wen-ku/untitled/microsoft-office-ming-ling-zhi-hang-lou-dong.md)
+  * [Atlassian Crowd RCE漏洞分析](lou-dong-wen-ku/untitled/atlassian-crowd-rce-lou-dong-fen-xi.md)
+  * [Atlassian Jira 模板注入漏洞](lou-dong-wen-ku/untitled/atlassian-jira-mo-ban-zhu-ru-lou-dong.md)
 
