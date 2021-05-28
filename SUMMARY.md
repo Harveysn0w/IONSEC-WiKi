@@ -26,4 +26,6 @@
   * [文件上传靶场通关之旅](sec/wen-jian-shang-chuan-xue-xi-zhi-lv/wen-jian-shang-chuan-ba-chang-tong-guan-zhi-lv.md)
   * [文件上传漏洞利用绕过](sec/wen-jian-shang-chuan-xue-xi-zhi-lv/wen-jian-shang-chuan-lou-dong-li-yong-rao-guo.md)
   * [文件上传学习笔记](sec/wen-jian-shang-chuan-xue-xi-zhi-lv/wen-jian-shang-chuan-xue-xi-bi-ji.md)
+* [工具使用·教程](sec/gong-ju-shi-yong-jiao-cheng/README.md)
+  * [Namp使用技巧总结](sec/gong-ju-shi-yong-jiao-cheng/namp-shi-yong-ji-qiao-zong-jie.md)
 
