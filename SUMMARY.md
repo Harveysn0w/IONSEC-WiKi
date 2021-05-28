@@ -1,7 +1,6 @@
 # Table of contents
 
 * [IONSEC·WiKi](README.md)
-* [index](untitled.md)
 
 ## CTF
 
