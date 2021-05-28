@@ -22,4 +22,8 @@
   * [SSRF漏洞](sec/pikachu-ba-chang-tong-guan-zhi-lv/ssrf-lou-dong.md)
   * [不安全的URL跳转漏洞](sec/pikachu-ba-chang-tong-guan-zhi-lv/bu-an-quan-de-url-tiao-zhuan-lou-dong.md)
   * [XXE漏洞](sec/pikachu-ba-chang-tong-guan-zhi-lv/xxe-lou-dong.md)
+* [文件上传·学习之旅](sec/wen-jian-shang-chuan-xue-xi-zhi-lv/README.md)
+  * [文件上传靶场通关之旅](sec/wen-jian-shang-chuan-xue-xi-zhi-lv/wen-jian-shang-chuan-ba-chang-tong-guan-zhi-lv.md)
+  * [文件上传漏洞利用绕过](sec/wen-jian-shang-chuan-xue-xi-zhi-lv/wen-jian-shang-chuan-lou-dong-li-yong-rao-guo.md)
+  * [文件上传学习笔记](sec/wen-jian-shang-chuan-xue-xi-zhi-lv/wen-jian-shang-chuan-xue-xi-bi-ji.md)
 
