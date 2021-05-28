@@ -13,7 +13,13 @@
 
 ## SEC
 
-* [Vulnhub靶机闯关记录](sec/vulnhub-ba-ji-chuang-guan-ji-lu.md)
+* [Vulnhub靶机闯关记录](sec/vulnhub-ba-ji-chuang-guan-ji-lu/README.md)
+  * [Jordaninfosec-CTF01](sec/vulnhub-ba-ji-chuang-guan-ji-lu/jordaninfosec-ctf01.md)
+  * [EVM](sec/vulnhub-ba-ji-chuang-guan-ji-lu/evm.md)
+  * [BossplayersCTF](sec/vulnhub-ba-ji-chuang-guan-ji-lu/bossplayersctf.md)
+  * [DevGuru](sec/vulnhub-ba-ji-chuang-guan-ji-lu/devguru.md)
+  * [Untitled](sec/vulnhub-ba-ji-chuang-guan-ji-lu/untitled-2.md)
+  * [Untitled](sec/vulnhub-ba-ji-chuang-guan-ji-lu/untitled-1.md)
 * [Pikachu靶场通关之旅](sec/pikachu-ba-chang-tong-guan-zhi-lv/README.md)
   * [敏感信息泄露漏洞](sec/pikachu-ba-chang-tong-guan-zhi-lv/min-gan-xin-xi-xie-lu-lou-dong.md)
   * [目录遍历漏洞](sec/pikachu-ba-chang-tong-guan-zhi-lv/mu-lu-bian-li-lou-dong.md)
